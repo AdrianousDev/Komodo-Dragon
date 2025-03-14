@@ -280,6 +280,10 @@ input[type=submit]:hover {
     header h1 {
         font-size: 30px;
     }
+
+    .animal-name {
+        text-align: center;
+    }
     
     .animal-img {
         width: 100%;
